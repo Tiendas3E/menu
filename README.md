@@ -1,12 +1,11 @@
-# no-system
+#  Tiendas 3e 
 
 ----------
 
 
 
-¡Excelente idea! Es muy importante proteger tu trabajo y dejar claro los términos de uso. Te ayudo con los archivos de licencia y documentación.
-
-## 📄 Parte 10 — Archivos de Licencia y Documentación
+¡
+## 📄  — Archivos de Licencia y Documentación
 
 
 ---
